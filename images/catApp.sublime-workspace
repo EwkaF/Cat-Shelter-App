@@ -1,0 +1,356 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"b",
+				"background-color"
+			],
+			[
+				"r",
+				"right\tproperty"
+			],
+			[
+				"d",
+				"d-flex"
+			],
+			[
+				"margin-",
+				"margin-top\tproperty"
+			],
+			[
+				"pa",
+				"padding-top\tproperty"
+			],
+			[
+				"h",
+				"h6\tTag"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"c",
+				"col-6"
+			],
+			[
+				"col-",
+				"col-3"
+			],
+			[
+				"a",
+				"alt\tAttr"
+			],
+			[
+				"i",
+				"img\tTag"
+			],
+			[
+				"col",
+				"col-6"
+			],
+			[
+				"padd",
+				"padding-right\tproperty"
+			],
+			[
+				"co",
+				"color\tproperty"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"f",
+				"footer\tTag"
+			],
+			[
+				"s",
+				"span1"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"add",
+				"addItem"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"l",
+				"liczba3"
+			],
+			[
+				"li",
+				"liczba2"
+			],
+			[
+				"n",
+				"number2"
+			],
+			[
+				"nu",
+				"number2"
+			],
+			[
+				"num",
+				"number1"
+			],
+			[
+				"m",
+				"myString"
+			],
+			[
+				"my",
+				"myNumber"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"fo",
+				"font-weight"
+			],
+			[
+				"u",
+				"uppercase"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"e",
+				"em\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/ewa/coderslab/KAT_FER_W_03_HTML_CSS/1_Zadania/Dzien_1/01_CSS_kaskadowe_arkusze_stylow/index.html",
+		"/home/ewa/coderslab/project/js/01.jsx",
+		"/home/ewa/.config/sublime-text-3/Packages/User/Babel.sublime-settings",
+		"/home/ewa/.config/sublime-text-3/Packages/Babel/Babel.sublime-settings",
+		"/home/ewa/coderslab_home/KAT_FER_W_03_REACT_jQuery/1_Zadania/Dzien_1/3. Modyfikowanie elementów DOM/index.html",
+		"/home/ewa/coderslab_home/KAT_FER_W_03_REACT_jQuery/1_Zadania/Dzien_1/3. Modyfikowanie elementów DOM/js/app.js",
+		"/home/ewa/prework/KAT_FER_W_03_Prework_JavaScript/4_Kontrola_przeplywu_programu/script.sublime-project",
+		"/home/ewa/coderslab_home/KAT_FER_W_03_REACT_jQuery/1_Zadania/Dzien_1/2. Eventy/index.html",
+		"/home/ewa/coderslab_home/KAT_FER_W_03_REACT_jQuery/1_Zadania/Dzien_1/2. Eventy/js/jquery-3.3.1.min.js",
+		"/home/ewa/coderslab_home/KAT_FER_W_03_REACT_jQuery/1_Zadania/Dzien_1/2. Eventy/css/style.css",
+		"/home/ewa/coderslab_home/KAT_FER_W_03_REACT_jQuery/1_Zadania/Dzien_1/2. Eventy/js/app.js",
+		"/home/ewa/prework/KAT_FER_W_03_Prework_JavaScript/4_Kontrola_przeplywu_programu/script.js",
+		"/home/ewa/prework/KAT_FER_W_03_Prework_JavaScript/3_Operatory/script.js",
+		"/home/ewa/prework/KAT_FER_W_03_Prework_JavaScript/2_Zmienne_i_typy_danych/script.js",
+		"/home/ewa/prework/KAT_FER_W_03_Prework_JavaScript/1_Pierwszy_skrypt/index.html",
+		"/home/ewa/prework/KAT_FER_W_03_Prework_JavaScript/1_Pierwszy_skrypt/script.js",
+		"/home/ewa/prework/KAT_FER_W_03_Prework_HTML/13.Formularze/index.html",
+		"/home/ewa/prework/KAT_FER_W_03_Prework_HTML/12.Stylowanie_list/style.css",
+		"/home/ewa/prework/KAT_FER_W_03_Prework_HTML/12.Stylowanie_list/index.html",
+		"/home/ewa/prework/KAT_FER_W_03_Prework_HTML/11.Kolor_i_tlo_w_CSS/css/style.css",
+		"/home/ewa/prework/KAT_FER_W_03_Prework_HTML/11.Kolor_i_tlo_w_CSS/index.html",
+		"/media/ewa/DISK_IMG/prework zadania/style11.css",
+		"/media/ewa/DISK_IMG/prework zadania/task11.html",
+		"/home/ewa/prework/KAT_FER_W_03_Prework_HTML/10.Stylowanie_tekstu/index.html",
+		"/home/ewa/prework/KAT_FER_W_03_Prework_HTML/10.Stylowanie_tekstu/style.css",
+		"/home/ewa/prework/KAT_FER_W_03_Prework_HTML/10.Stylowanie_tekstu/images/text1.jpg",
+		"/home/ewa/prework/KAT_FER_W_03_Prework_HTML/09.Kolory_i_jednostki_w_CSS/index.html",
+		"/home/ewa/prework/KAT_FER_W_03_Prework_HTML/09.Kolory_i_jednostki_w_CSS/style.css",
+		"/home/ewa/prework/KAT_FER_W_03_Prework_HTML/08.Elementy_obok_siebie/style.css",
+		"/home/ewa/prework/KAT_FER_W_03_Prework_HTML/08.Elementy_obok_siebie/index.html",
+		"/home/ewa/prework/KAT_FER_W_03_Prework_HTML/07.Box_model/style.css",
+		"/home/ewa/prework/KAT_FER_W_03_Prework_HTML/07.Box_model/index.html",
+		"/media/ewa/DISK_IMG/new 2.html",
+		"/home/ewa/prework/KAT_FER_W_03_Prework_HTML/06.CSS_Kaskadowe_arkusze_stylow/css/style.css",
+		"/home/ewa/prework/KAT_FER_W_03_Prework_HTML/06.CSS_Kaskadowe_arkusze_stylow/index.html",
+		"/home/ewa/prework/KAT_FER_W_03_Prework_HTML/05.Tabele/index.html",
+		"/home/ewa/prework/KAT_FER_W_03_Prework_HTML/04.Linki_i_obrazki/index.html",
+		"/home/ewa/prework/KAT_FER_W_03_Prework_HTML/03.Linki_i_ramka/index.html",
+		"/home/ewa/prework/KAT_FER_W_03_Prework_HTML/02.Formatowanie_tekstu/index.html",
+		"/home/ewa/prework/KAT_FER_W_03_Prework_HTML/.gitignore",
+		"/home/ewa/prework/KAT_FER_W_03_Prework_HTML/01.Struktura_dokumentu/css/style.css",
+		"/home/ewa/prework/KAT_FER_W_03_Prework_HTML/01.Struktura_dokumentu/index.html",
+		"/home/ewa/prework/KAT_FER_W_03_Prework_HTML/01.Struktura_dokumentu/css/style2.css",
+		"/home/ewa/untitled"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "catApp.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 330.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
