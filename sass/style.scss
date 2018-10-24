@@ -20,6 +20,14 @@
   background-size: contain;
   background-repeat: no-repeat;
   background-position: right center;
+  table{
+    width: 60%;
+    text-align: left;
+    #category {
+      text-align: center;
+    }
+  }
+  
   #catShelter{
     margin-right: 4rem;
   }
@@ -35,7 +43,7 @@ h1{
 h2{
   padding-bottom: 1rem;
 }
-table{
-  width: 100%;
-}
+// table{
+//   width: 100%;
+// }
 }

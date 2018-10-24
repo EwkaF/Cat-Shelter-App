@@ -88,7 +88,7 @@ class CatTable extends React.Component {
 
 class CatCategoryRow extends React.Component {
     render() {
-        return <tr><th colSpan="2">{this.props.category}</th></tr>;
+        return <tr><th id="category" colSpan="2">{this.props.category}</th></tr>;
     }
 }
 
